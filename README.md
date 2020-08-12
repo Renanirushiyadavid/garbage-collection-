@@ -1,6 +1,6 @@
 # garbage-collection
 
-##comparing Cheney's algorithm and mark compact algorithm with c++
+## comparing Cheney's algorithm and mark compact algorithm with c++
 
 
 Comparing Cheney's algorithm and Mark-compact algorithm with C++ and demonstrating which is better 
